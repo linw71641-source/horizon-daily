@@ -74,6 +74,36 @@
         "url": "https://www.schneier.com/feed/atom/",
         "enabled": true,
         "category": "security"
+      },
+      {
+        "name": "BBC World News",
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "enabled": true,
+        "category": "politics"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/rss",
+        "enabled": true,
+        "category": "politics"
+      },
+      {
+        "name": "BBC Sport Football",
+        "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "enabled": true,
+        "category": "football"
+      },
+      {
+        "name": "The Guardian Football",
+        "url": "https://www.theguardian.com/football/rss",
+        "enabled": true,
+        "category": "football"
+      },
+      {
+        "name": "ESPN NBA",
+        "url": "https://www.espn.com/espn/rss/nba/news",
+        "enabled": true,
+        "category": "basketball"
       }
     ],
     "reddit": {
